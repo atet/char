@@ -2,7 +2,12 @@
 
 [![.img/logo_char.png](.img/logo_char.png)](#nolink)
 
-Microsoft Office-Compatible Characters — *Just copy and paste*
+## Microsoft Office-Compatible Characters — *Just copy and paste!*
+
+I hope my ad-free resource helps you out, here are some considerations:
+- Characters seen here on a web browser may look enitrely different elsewhere, like in VSCode or a Microsoft Word document
+- There are many more cool and useful characters, but if they don't render correctly in GitHub's HTML here, I didn't include it
+- Redundancies in emoji sets have been removed: 👳👳‍♀️👳‍♂️→👳‍♀️👳‍♂️
 
 ----------------------------------------------------------------------------
 
@@ -19,7 +24,7 @@ Microsoft Office-Compatible Characters — *Just copy and paste*
 
 ### Math
 
-# ±÷∆∏∑∙√∞∩∫≈≠≤≥×
+# ±÷∆∏∑∙√∞∩∫≈≠≤≥×—
 
 ### Abbreviations
 
@@ -53,7 +58,7 @@ Microsoft Office-Compatible Characters — *Just copy and paste*
 
 ### Faces
 
-# 😀😃😄😁😆😅😂🤣😊😇🙂🙃😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨🧐🤓😎🤩🥳😏😒😞😔😟😕🙁😣😖😫😩🥺😢😭😤😠😡🤬🤯😳🥵🥶😱😨😰😥😓🤗🤔🤭🤫🤥😶😐😑😬🙄😯😦😧😮😲🥱😴🤤😪😵🤐🥴🤢🤮🤧😷🤒🤕🤑🤠😈👿👹👺🤡💩👻💀☠️👽👾🤖🎃😺😸😹😻😼😽🙀😿😾👶🧒👧👦🧑👩👨👩‍🦱👨‍🦱👩‍🦰👨‍🦰👱👱‍♀️👱‍♂️👩‍🦳👨‍🦳👩‍🦲👨‍🦲🧔🧓👵👴👲👳👳‍♀️👳‍♂️👸🤴🤶🎅👼🙈🙉🙊
+# 😀😃😄😁😆😅😂🤣😊😇🙂🙃😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨🧐🤓😎🤩🥳😏😒😞😔😟😕🙁😣😖😫😩🥺😢😭😤😠😡🤬🤯😳🥵🥶😱😨😰😥😓🤗🤔🤭🤫🤥😶😐😑😬🙄😯😦😧😮😲🥱😴🤤😪😵🤐🥴🤢🤮🤧😷🤒🤕🤑🤠😈👿👹👺🤡💩👻💀☠️👽👾🤖🎃😺😸😹😻😼😽🙀😿😾👶🧒👧👦🧑👩👨👩‍🦱👨‍🦱👩‍🦰👨‍🦰👱‍♀️👱‍♂️👩‍🦳👨‍🦳👩‍🦲👨‍🦲🧔🧓👵👴👲👳‍♀️👳‍♂️👸🤴🤶🎅👼🙈🙉🙊
 
 ### Hands, Body Parts, and Accessories
 
@@ -81,8 +86,9 @@ Emoji in Microsoft Word (Web Version) | https://support.microsoft.com/en-us/offi
 
 Issue | Solution
 --- | ---
-**"Pasting in Word adds a new line after the emoji"** | Can't do anything on my end about how Word pastes from HTML ([learn more here](https://superuser.com/questions/1482943/how-to-paste-from-notepad-into-word-without-getting-extra-line-breaks-after-ever#:~:text=The%20reason%20why%20MS%20Word%20displays%20the%20line%20feeds%20from%20your%20pasted%20text%20as%20paragraph%20endings%20is%20that%20they%20are%20encoded%20as%20CR%20LF%20(%22Carriage%20return%22%2C%20%22Line%20feed%22).)), you'll just have to press backspace
-**"Are emoji and other symbols copyrighted?"** | There are various interpretations on this subject so ***use these at your own risk***
+**"Pasting in Word adds a new line after the symbol/emoji."** | Can't do anything on my end about how Word pastes from HTML ([learn more here](https://superuser.com/questions/1482943/how-to-paste-from-notepad-into-word-without-getting-extra-line-breaks-after-ever#:~:text=The%20reason%20why%20MS%20Word%20displays%20the%20line%20feeds%20from%20your%20pasted%20text%20as%20paragraph%20endings%20is%20that%20they%20are%20encoded%20as%20CR%20LF%20(%22Carriage%20return%22%2C%20%22Line%20feed%22).)), you'll just have to press backspace
+**"The symbols/emoji aren't lining up with each other."** | These characters may not be monospaced, therefore you may not get perfect alignment
+**"Are these symbols/emoji copyrighted?"** | There are various interpretations on this subject so ***use these at your own risk***
 
 [Back to Top](#table-of-contents)
 
