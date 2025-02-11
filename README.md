@@ -17,6 +17,34 @@ Microsoft Office-Compatible Characters — *Just copy and paste*
 
 ## Symbols
 
+### Math
+
+# ±÷∆∏∑∙√∞∩∫≈≠≤≥×
+
+### Abbreviations
+
+# ©®°¢£¥€₿§¶№™
+
+### Greek Symbols
+
+# ΑαΒβΓγΔδΕεΖζΗηΘθΙιΚκΛλΜμΝνΞξΟοΠπΡρΣσςΤτΥυΦφΧχΨψΩω
+
+### Bullets and Citations
+
+# ■□▪▫○●◌◘◙•◦†‡¹²³⁴⁵⁶⁷⁸⁹
+
+### Arrows
+
+# ←↑→↓↔↕▲►▼◄
+
+### Box Drawings
+
+# ─│┌┐└┘├┤┬┴┼═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬▀▄█▌▐░▒▓
+
+### Misc.
+
+# ☺☻☼♀♂♠♣♥♦♪♫♯
+
 [Back to Top](#table-of-contents)
 
 ----------------------------------------------------------------------------
