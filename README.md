@@ -1,18 +1,209 @@
-# [atet](https://github.com/atet) / [**_emoji_**](https://github.com/atet/emoji/blob/main/README.md#atet--emoji)
+# [atet](https://github.com/atet) / [**_char_**](https://github.com/atet/char/blob/main/README.md#atet--char)
 
-Microsoft Office-Compatible Emoji — *Just copy and paste*
+[![.img/logo_char.png](.img/logo_char.png)](#nolink)
+
+Microsoft Office-Compatible Characters — *Just copy and paste*
 
 ----------------------------------------------------------------------------
 
 ## Table of Contents
 
-* [Faces](#faces)
+* [Symbols](#symbols)
+* [emoji](#emoji)
 * [Other Resources](#other-resources)
 * [Troubleshooting](#troubleshooting)
 
 ----------------------------------------------------------------------------
 
-## Faces
+## Symbols
+
+[Back to Top](#table-of-contents)
+
+----------------------------------------------------------------------------
+
+## Emoji
+
+### Faces
+
+<font size="32">
+<table>
+  <tr>
+    <td>😀</td>
+    <td>😃</td>
+    <td>😄</td>
+    <td>😁</td>
+    <td>😆</td>
+    <td>😅</td>
+    <td>😂</td>
+    <td>🤣</td>
+    <td>😊</td>
+    <td>😇</td>
+  </tr>
+  <tr>
+    <td>🙂</td>
+    <td>🙃</td>
+    <td>😉</td>
+    <td>😌</td>
+    <td>😍</td>
+    <td>🥰</td>
+    <td>😘</td>
+    <td>😗</td>
+    <td>😙</td>
+    <td>😚</td>
+  </tr>
+  <tr>
+    <td>😋</td>
+    <td>😛</td>
+    <td>😝</td>
+    <td>😜</td>
+    <td>🤪</td>
+    <td>🤨</td>
+    <td>🧐</td>
+    <td>🤓</td>
+    <td>😎</td>
+    <td>🤩</td>
+  </tr>
+  <tr>
+    <td>🥳</td>
+    <td>😏</td>
+    <td>😒</td>
+    <td>😞</td>
+    <td>😔</td>
+    <td>😟</td>
+    <td>😕</td>
+    <td>🙁</td>
+    <td>☹️</td>
+    <td>😣</td>
+  </tr>
+  <tr>
+    <td>😖</td>
+    <td>😫</td>
+    <td>😩</td>
+    <td>🥺</td>
+    <td>😢</td>
+    <td>😭</td>
+    <td>😤</td>
+    <td>😠</td>
+    <td>😡</td>
+    <td>🤬</td>
+  </tr>
+  <tr>
+    <td>🤯</td>
+    <td>😳</td>
+    <td>🥵</td>
+    <td>🥶</td>
+    <td>😱</td>
+    <td>😨</td>
+    <td>😰</td>
+    <td>😥</td>
+    <td>😓</td>
+    <td>🤗</td>
+  </tr>
+  <tr>
+    <td>🤔</td>
+    <td>🤭</td>
+    <td>🤫</td>
+    <td>🤥</td>
+    <td>😶</td>
+    <td>😐</td>
+    <td>😑</td>
+    <td>😬</td>
+    <td>🙄</td>
+    <td>😯</td>
+  </tr>
+  <tr>
+    <td>😦</td>
+    <td>😧</td>
+    <td>😮</td>
+    <td>😲</td>
+    <td>🥱</td>
+    <td>😴</td>
+    <td>🤤</td>
+    <td>😪</td>
+    <td>😵</td>
+    <td>🤐</td>
+  </tr>
+  <tr>
+    <td>🥴</td>
+    <td>🤢</td>
+    <td>🤮</td>
+    <td>🤧</td>
+    <td>😷</td>
+    <td>🤒</td>
+    <td>🤕</td>
+    <td>🤑</td>
+    <td>🤠</td>
+    <td>😈</td>
+  </tr>
+  <tr>
+    <td>👿</td>
+    <td>👹</td>
+    <td>👺</td>
+    <td>🤡</td>
+    <td>💩</td>
+    <td>👻</td>
+    <td>💀</td>
+    <td>☠️</td>
+    <td>👽</td>
+    <td>👾</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>🎃</td>
+    <td>😺</td>
+    <td>😸</td>
+    <td>😹</td>
+    <td>😻</td>
+    <td>😼</td>
+    <td>😽</td>
+    <td>🙀</td>
+    <td>😿</td>
+  </tr>
+  <tr>
+    <td>😾</td>
+    <td>👶</td>
+    <td>🧒</td>
+    <td>👧</td>
+    <td>👦</td>
+    <td>🧑</td>
+    <td>👩</td>
+    <td>👨</td>
+    <td>👩‍🦱</td>
+    <td>👨‍🦱</td>
+  </tr>
+  <tr>
+    <td>👩‍🦰</td>
+    <td>👨‍🦰</td>
+    <td>👱</td>
+    <td>👱‍♀️</td>
+    <td>👱‍♂️</td>
+    <td>👩‍🦳</td>
+    <td>👨‍🦳</td>
+    <td>👩‍🦲</td>
+    <td>👨‍🦲</td>
+    <td>🧔</td>
+  </tr>
+  <tr>
+    <td>🧓</td>
+    <td>👵</td>
+    <td>👴</td>
+    <td>👲</td>
+    <td>👳</td>
+    <td>👳‍♀️</td>
+    <td>👳‍♂️</td>
+    <td>👸</td>
+    <td>🤴</td>
+    <td>🤶</td>
+  </tr>
+  <tr>
+    <td>🎅</td>
+    <td>👼</td>
+    <td>🙈</td>
+    <td>🙉</td>
+    <td>🙊</td>
+  </tr>
+</table>
+</font>
 
 [Back to Top](#table-of-contents)
 
