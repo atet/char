@@ -9,7 +9,7 @@ Microsoft Office-Compatible Characters — *Just copy and paste*
 ## Table of Contents
 
 * [Symbols](#symbols)
-* [emoji](#emoji)
+* [Emoji](#emoji)
 * [Other Resources](#other-resources)
 * [Troubleshooting](#troubleshooting)
 
